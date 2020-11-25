@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1606293281 source:c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606288759 c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\linkedlist.h
+
+1606315327 source:c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	<ctype.h>
+	<time.h>
+	"menu.h"
+
+1606314871 source:c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"bicicleta.h"
+	"LinkedList.h"
+
+1606312536 c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\bicicleta.h
+	"LinkedList.h"
+
+1606308999 source:c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+
+1606315602 source:c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"parser.h"
+	"Controller.h"
+
+1606307509 c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\parser.h
+
+1606312632 c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\controller.h
+
+1606315742 source:c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	<ctype.h>
+	<time.h>
+	"menu.h"
+
+1606313431 c:\users\fernando\desktop\utn\parciales\lab1\parcial2do\apellido.nombre.splabi.1a\bicicletas\menu.h
+
